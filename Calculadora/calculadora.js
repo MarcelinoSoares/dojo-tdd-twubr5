@@ -20,4 +20,7 @@ class Calculadora {
   }
 }
 
+// para implementar depois dos testes
+const calculadora = new Calculadora();
+
 module.exports = Calculadora;
